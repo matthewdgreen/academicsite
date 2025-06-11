@@ -11,4 +11,4 @@ This book is a work in progress. The aim is to provide both a broad and deep exp
 
 ## Table of Contents
 
-{% include toc.md %}
+{% include_relative _includes/toc.md %}
