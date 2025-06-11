@@ -1,17 +1,14 @@
 ---
-title: My Page Title
+title: Cryptographic Engineering
 layout: post  # if using Jekyll
 ---
 
-# This is a Heading
+# Cryptographic Engineering
 
-This is a paragraph of text.
+This book is a work in progress. The aim is to provide both a broad and deep exploration of the topic of cryptographic engineering, from basic encryption techniques, to protocols, to implementation, as well as advanced topics such as privacy-preserving protocols. 
 
-**This text is bold.**
+**Warning: the chapters below are drafts, and almost certainly contain many errors! To report and issue, send an email to errata@matthewgreen.io**
 
-*This text is italic.*
+## Table of Contents
 
-[This is a link to another page](about.md)
-
-- This is a list item
-- Another list item
+{% include toc.md %}
