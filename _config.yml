@@ -1,6 +1,8 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-sitemap
 
 name: Matthew Green
-title: null
+title: "Matthew D. Green - Johns Hopkins University"
+url: "https://matthewgreen.io"
